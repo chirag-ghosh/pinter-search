@@ -6,6 +6,8 @@
 
 ## Tech Stack
 
+[Live Deployment](https://pinter-five.vercel.app/)
+
 **Framework:** React (Typescript)
 
 **Styling:** SASS
